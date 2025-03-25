@@ -57,3 +57,16 @@ Blank (TypeScript): Selecting this option sets up a minimal project template wit
 - **package.json**: Contains the project dependencies and scripts, as well as project-related information.
 - **tsconfig.json**: TypeScript configuration file that defines the rules and options for the TypeScript compiler.
 </details>
+
+
+<details>
+  <summary>How to Run</summary>
+
+   A browser window will open with Expo DevTools.
+
+You can:
+
+    Use the Android/iOS emulator (if configured).
+    Scan the QR code with the Expo Go app on your phone.
+    
+  </details>
